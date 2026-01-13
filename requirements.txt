@@ -44,4 +44,4 @@ plotly>=6,<7
 bqplot
 
 # slides / RISE
-jupyterlab-contrib
+jupyterlab-slideshow
