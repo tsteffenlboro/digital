@@ -12,3 +12,15 @@ JupyterLite is being tested against modern web browsers:
 - Chromium 89+
 
 It does seem to work fine in Google Chrome, Microsoft Edge, and Apple Safari, too. 
+
+## Jupyter Notebook
+
+All these notebooks can be opened in Jupyter Notebook locally. Anaconda is a convenient way to set this up. This does require the following additional packages:
+
+* ipywidgets
+* ipycanvas
+* jupyterlab-slideshow
+* symps
+
+Additional packages may be useful, but should not be required. 
+
