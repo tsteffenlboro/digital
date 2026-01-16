@@ -15,7 +15,7 @@ It does seem to work fine in Google Chrome, Microsoft Edge, and Apple Safari, to
 
 ## Jupyter Notebook
 
-All these notebooks can be opened in Jupyter Notebook locally. Anaconda is a convenient way to set this up. This does require the following additional packages:
+All these notebooks can be opened in Jupyter Notebook locally. Anaconda is a convenient way to set this up. This does require the following additional packages (this may need the forge channel):
 
 * ipywidgets
 * ipycanvas
