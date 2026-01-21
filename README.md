@@ -11,7 +11,7 @@ JupyterLite is being tested against modern web browsers:
 - Firefox 90+
 - Chromium 89+
 
-It does seem to work fine in Google Chrome, Microsoft Edge, and Apple Safari, too. 
+It does seem to work fine in Google Chrome, Microsoft Edge, Apple Safari, and Brave, too. 
 
 ## Jupyter Notebook
 
