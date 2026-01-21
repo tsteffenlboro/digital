@@ -15,11 +15,12 @@ It does seem to work fine in Google Chrome, Microsoft Edge, and Apple Safari, to
 
 ## Jupyter Notebook
 
-All these notebooks can be opened in Jupyter Notebook locally. Anaconda is a convenient way to set this up. This does require the following additional packages (this may need the forge channel):
+All these notebooks can be opened in Jupyter Notebook locally. Anaconda is a convenient way to set this up. This does require the following additional packages (slideshow seems to need the conda-forge channel):
 
 * ipywidgets
 * ipycanvas
 * jupyterlab-slideshow
+* scipy
 * symps
 
 Additional packages may be useful, but should not be required. 
