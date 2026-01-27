@@ -19,9 +19,11 @@ All these notebooks can be opened in Jupyter Notebook locally. Anaconda is a con
 
 * ipywidgets
 * ipycanvas
-* jupyterlab-slideshow
+* numpy
 * scipy
 * symps
+* matplotlib
+* jupyterlab-rise (or jupyterlab-slideshow)
 
 Additional packages may be useful, but should not be required. 
 
